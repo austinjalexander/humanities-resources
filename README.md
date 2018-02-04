@@ -1,5 +1,8 @@
 # humanities-resources
 
+## Hebrew Bible
+- http://www.emanueltov.info/
+
 ## Islam
 
 ### Quran
