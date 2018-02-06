@@ -1,5 +1,8 @@
 # humanities-resources
 
+## Dead Sea Scrolls
+- http://orion.mscc.huji.ac.il/resources/djd.shtml
+
 ## Hebrew Bible
 - http://www.emanueltov.info/
 
