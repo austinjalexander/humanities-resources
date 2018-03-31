@@ -3,6 +3,9 @@
 ## Dead Sea Scrolls
 - http://orion.mscc.huji.ac.il/resources/djd.shtml
 
+## Demotic
+- https://oi.uchicago.edu/research/publications/demotic-dictionary-oriental-institute-university-chicago
+
 ## Hebrew Bible
 - http://www.emanueltov.info/
 
