@@ -1,5 +1,12 @@
 # humanities-resources
 
+## Cuneiform
+- http://www.britishmuseum.org/about_us/departments/middle_east/facilities_and_services/study_room/studying_cuneiform_tablets.aspx
+- https://www.orinst.ox.ac.uk/cuneiform-digital-library-initiative-cdli
+- https://cdli.ucla.edu/
+- https://www.orinst.ox.ac.uk/people/jacob-l-dahl
+- http://etcsl.orinst.ox.ac.uk/
+
 ## Dead Sea Scrolls
 - http://orion.mscc.huji.ac.il/resources/djd.shtml
 
