@@ -1,5 +1,9 @@
 # humanities-resources
 
+## Christian Origins
+- https://www.bibleodyssey.org
+- http://www.ntgateway.com
+
 ## Cuneiform
 - http://www.britishmuseum.org/about_us/departments/middle_east/facilities_and_services/study_room/studying_cuneiform_tablets.aspx
 - https://www.orinst.ox.ac.uk/cuneiform-digital-library-initiative-cdli
