@@ -3,6 +3,8 @@
 ## Christian Origins
 - https://www.bibleodyssey.org
 - http://www.ntgateway.com
+### NT Wright
+- https://www.youtube.com/watch?v=ci-P0CLCiGM
 
 ## Cuneiform
 - http://www.britishmuseum.org/about_us/departments/middle_east/facilities_and_services/study_room/studying_cuneiform_tablets.aspx
