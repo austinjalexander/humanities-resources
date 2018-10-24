@@ -3,6 +3,10 @@
 ## Christian Origins
 - https://www.bibleodyssey.org
 - http://www.ntgateway.com
+### Bart Ehrman
+- https://ehrmanblog.org/member-landing-page/
+### Crispin Fletcher-Louis
+- http://jesusmonotheism.com/blog/
 ### NT Wright
 - https://www.youtube.com/watch?v=ci-P0CLCiGM
 
