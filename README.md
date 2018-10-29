@@ -9,6 +9,7 @@
 - http://jesusmonotheism.com/blog/
 ### NT Wright
 - https://www.youtube.com/watch?v=ci-P0CLCiGM
+- https://www.youtube.com/watch?v=yKvGQr2cmoU
 
 ## Cuneiform
 - http://www.britishmuseum.org/about_us/departments/middle_east/facilities_and_services/study_room/studying_cuneiform_tablets.aspx
