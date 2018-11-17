@@ -33,6 +33,10 @@
 - http://thesoundingline.com/map-of-the-day-every-ruler-in-europe-since-400-bc/
 - https://www.reddit.com/r/MapPorn/comments/9u6anx/keeps_creeping_me_out/?st=JO3SE94X&sh=3a558d69
 
+### NDEs
+- https://iands.org/research/publications/journal-of-near-death-studies.html
+- https://nderf.org/
+
 ### Quran
 - http://www.corpuscoranicum.de/
 - http://www.corpuscoranicum.de/kontexte
