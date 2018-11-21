@@ -3,6 +3,8 @@
 ## Christian Origins
 - https://www.bibleodyssey.org
 - http://www.ntgateway.com
+### Margaret Barker
+- http://www.margaretbarker.com/
 ### Bart Ehrman
 - https://ehrmanblog.org/member-landing-page/
 ### Crispin Fletcher-Louis
