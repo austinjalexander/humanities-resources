@@ -41,6 +41,7 @@
 ### NDEs
 - https://iands.org/research/publications/journal-of-near-death-studies.html
 - https://nderf.org/
+- http://www.horizonresearch.org/near-death/intro-to-the-nde-phenomena/religion-culture-and-near-death-experiences/
 
 ### Quran
 - http://www.corpuscoranicum.de/
