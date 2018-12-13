@@ -28,6 +28,7 @@
 
 ## Hebrew Bible
 - http://www.emanueltov.info/
+- https://www.sbl-site.org/HBCE/HBCE_Links.html
 
 ## Islam
 
