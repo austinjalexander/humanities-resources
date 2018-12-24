@@ -32,6 +32,9 @@
 
 ## Islam
 
+## Linguistics
+- https://forvo.com/
+
 ### Maps
 - http://thesoundingline.com/map-of-the-day-every-ruler-in-europe-since-400-bc/
 - https://www.reddit.com/r/MapPorn/comments/9u6anx/keeps_creeping_me_out/?st=JO3SE94X&sh=3a558d69
