@@ -61,3 +61,6 @@
 - https://www.marxists.org/archive/marx/works/1847/11/prin-com.htm
 - https://theanarchistlibrary.org/library/petr-kropotkin-the-conquest-of-bread.pdf
 - https://monthlyreview.org/2009/05/01/why-socialism/
+
+## Textual Criticism
+- http://rosetta.reltech.org/TC/index.html#page=home
