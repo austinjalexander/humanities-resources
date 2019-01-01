@@ -26,6 +26,10 @@
 ## Demotic
 - https://oi.uchicago.edu/research/publications/demotic-dictionary-oriental-institute-university-chicago
 
+## Greek
+### Lexicons
+- https://projects.swan.ac.uk/ancient-world/?p=673
+
 ## Hebrew Bible
 - http://www.emanueltov.info/
 - https://www.sbl-site.org/HBCE/HBCE_Links.html
