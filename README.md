@@ -29,12 +29,17 @@
 ## Greek
 ### Lexicons
 - https://projects.swan.ac.uk/ancient-world/?p=673
+- http://logeion.uchicago.edu/λογεῖον
 
 ## Hebrew Bible
 - http://www.emanueltov.info/
 - https://www.sbl-site.org/HBCE/HBCE_Links.html
 
 ## Islam
+
+## Latin
+### Lexicons
+- http://logeion.uchicago.edu/acta
 
 ## Linguistics
 - https://forvo.com/
