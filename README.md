@@ -30,6 +30,7 @@
 ### Lexicons
 - https://projects.swan.ac.uk/ancient-world/?p=673
 - http://logeion.uchicago.edu/λογεῖον
+- https://www.classics.cam.ac.uk/research/projects/glp/links
 
 ## Hebrew Bible
 - http://www.emanueltov.info/
