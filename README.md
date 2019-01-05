@@ -38,6 +38,9 @@
 
 ## Islam
 
+## Judaisms
+- https://en.wikipedia.org/wiki/Daniel_Boyarin
+
 ## Latin
 ### Lexicons
 - http://logeion.uchicago.edu/acta
