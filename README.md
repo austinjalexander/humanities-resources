@@ -40,6 +40,7 @@
 
 ## Judaisms
 - https://en.wikipedia.org/wiki/Daniel_Boyarin
+- https://en.wikipedia.org/wiki/Jacob_Neusner
 
 ## Latin
 ### Lexicons
