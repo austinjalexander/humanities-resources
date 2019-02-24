@@ -42,6 +42,7 @@
 - https://en.wikipedia.org/wiki/Daniel_Boyarin
 - https://en.wikipedia.org/wiki/Jacob_Neusner
 - https://www.sefaria.org
+- http://www.come-and-hear.com
 
 ## Latin
 ### Lexicons
