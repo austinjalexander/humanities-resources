@@ -41,6 +41,7 @@
 ## Judaisms
 - https://en.wikipedia.org/wiki/Daniel_Boyarin
 - https://en.wikipedia.org/wiki/Jacob_Neusner
+- https://www.sefaria.org
 
 ## Latin
 ### Lexicons
